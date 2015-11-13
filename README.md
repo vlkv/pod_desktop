@@ -1,5 +1,5 @@
 # pod_desktop
-Bash script for automatic wallpaper change using POD (National Geographic or NASA)
+Bash script for automatic desktop wallpaper change using Picture Of the Day (National Geographic or NASA)
 
 
 ## HOWTO use it
@@ -15,3 +15,4 @@ $ crontab -e
 * Set your desktop background to symlink ~/Pictures/pod/wallpaper
 * enjoy ;)
 
+P.S. By default script downloads National Geographic POD, if you want to use NASA POD, comment/uncomment block of code in the script
