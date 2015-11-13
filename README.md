@@ -6,6 +6,7 @@ Bash script for automatic wallpaper change using POD (National Geographic or NAS
 
 * Download pod_desktop.sh and store it somewhere, e.g. ~/bin
 * Setup cron to call ~/bin/pod_desktop.sh regularly, 
+
 $ crontab -e
 ```
 */30 * * * * /home/vvolkov/bin/pod_desktop.sh
