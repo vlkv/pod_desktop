@@ -1,5 +1,5 @@
 # pod_desktop
-Bash script for automatic desktop wallpaper change using Picture Of the Day (National Geographic or NASA)
+Bash script for automatic desktop wallpaper change using Picture Of the Day (POD) National Geographic or NASA
 
 
 ## HOWTO use it
