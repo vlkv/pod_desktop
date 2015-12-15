@@ -9,7 +9,7 @@ Bash script for automatic desktop wallpaper change using Picture Of the Day (POD
 
 $ crontab -e
 ```
-*/30 * * * * /home/vvolkov/bin/pod_desktop.sh
+30 * * * * /home/vvolkov/bin/pod_desktop.sh
 ```
 * Call ~/bin/pod_desktop.sh for the first time manually (this should download the first image and create a symlink to it)
 * Set your desktop background to symlink ~/Pictures/pod/wallpaper
